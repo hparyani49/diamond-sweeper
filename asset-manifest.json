@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/diamond-sweeper/static/css/main.a5407f44.chunk.css",
-    "main.js": "/diamond-sweeper/static/js/main.dacdd523.chunk.js",
-    "main.js.map": "/diamond-sweeper/static/js/main.dacdd523.chunk.js.map",
-    "runtime-main.js": "/diamond-sweeper/static/js/runtime-main.d7fb22a7.js",
-    "runtime-main.js.map": "/diamond-sweeper/static/js/runtime-main.d7fb22a7.js.map",
-    "static/js/2.d7ad15c6.chunk.js": "/diamond-sweeper/static/js/2.d7ad15c6.chunk.js",
-    "static/js/2.d7ad15c6.chunk.js.map": "/diamond-sweeper/static/js/2.d7ad15c6.chunk.js.map",
-    "index.html": "/diamond-sweeper/index.html",
-    "precache-manifest.3018412f6cb68aa1d5d3f35d93240781.js": "/diamond-sweeper/precache-manifest.3018412f6cb68aa1d5d3f35d93240781.js",
-    "service-worker.js": "/diamond-sweeper/service-worker.js",
-    "static/css/main.a5407f44.chunk.css.map": "/diamond-sweeper/static/css/main.a5407f44.chunk.css.map",
-    "static/js/2.d7ad15c6.chunk.js.LICENSE.txt": "/diamond-sweeper/static/js/2.d7ad15c6.chunk.js.LICENSE.txt",
-    "static/media/dice.gif": "/diamond-sweeper/static/media/dice.b44733eb.gif"
+    "main.css": "/diamondsweeper/static/css/main.a5407f44.chunk.css",
+    "main.js": "/diamondsweeper/static/js/main.e6f4fe9d.chunk.js",
+    "main.js.map": "/diamondsweeper/static/js/main.e6f4fe9d.chunk.js.map",
+    "runtime-main.js": "/diamondsweeper/static/js/runtime-main.cd2d2a32.js",
+    "runtime-main.js.map": "/diamondsweeper/static/js/runtime-main.cd2d2a32.js.map",
+    "static/js/2.d7ad15c6.chunk.js": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js",
+    "static/js/2.d7ad15c6.chunk.js.map": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js.map",
+    "index.html": "/diamondsweeper/index.html",
+    "precache-manifest.e9ae5caeb29ae43c648bd060cea7473f.js": "/diamondsweeper/precache-manifest.e9ae5caeb29ae43c648bd060cea7473f.js",
+    "service-worker.js": "/diamondsweeper/service-worker.js",
+    "static/css/main.a5407f44.chunk.css.map": "/diamondsweeper/static/css/main.a5407f44.chunk.css.map",
+    "static/js/2.d7ad15c6.chunk.js.LICENSE.txt": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js.LICENSE.txt",
+    "static/media/dice.gif": "/diamondsweeper/static/media/dice.b44733eb.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7fb22a7.js",
+    "static/js/runtime-main.cd2d2a32.js",
     "static/js/2.d7ad15c6.chunk.js",
     "static/css/main.a5407f44.chunk.css",
-    "static/js/main.dacdd523.chunk.js"
+    "static/js/main.e6f4fe9d.chunk.js"
   ]
 }
