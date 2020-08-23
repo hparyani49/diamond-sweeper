@@ -1,5 +1,4 @@
 import React from 'react';
-import DiceGif from '../../../assets/dice.gif';
 import './game.scss';
 import { useState } from 'react';
 import { useEffect } from 'react';
@@ -18,7 +17,7 @@ const Game = (props) => {
     //Utills
     const getPlaceholder = (row, col) => {
         let pos = row+''+col;
-        if(openCards.indexOf(pos) != -1){
+        if(openCards.indexOf(pos) !== -1){
             if(gameState[row][col]){
                 return <div className='board-place'><i className='fa fa-diamond'></i></div>
             }else{
@@ -42,7 +41,7 @@ const Game = (props) => {
         setOpenCards(newArr);
 
         if(gameState[rowIndex][colIndex]){
-            if(revealedDiamondCount == 7){
+            if(revealedDiamondCount === 7){
                 setFinish(true);
             }else{
                 setRevealedDiamondCount(revealedDiamondCount + 1);
@@ -51,14 +50,14 @@ const Game = (props) => {
     }
 
     useEffect(() => {
-        let diamondPos = [];
+        let diamondPos = [], initialGame = [];
         for(let i = 0; i < MAX_DIAMONDS; i++){
             diamondPos.push(randomNumber(10*i, 10*i+(GAMECOL - 1)));
         }
         for (let i = 0; i < GAMEROW; i++) {
             initialGame[i] = [];
             for (let j = 0; j < GAMECOL; j++) {
-                if (diamondPos.indexOf(Number(i+''+j)) != -1) {
+                if (diamondPos.indexOf(Number(i+''+j)) !== -1) {
                     initialGame[i][j] = true;
                 } else {
                     initialGame[i][j] = false;
