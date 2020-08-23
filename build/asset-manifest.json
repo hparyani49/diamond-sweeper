@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/diamondsweeper/static/css/main.a5407f44.chunk.css",
-    "main.js": "/diamondsweeper/static/js/main.e6f4fe9d.chunk.js",
-    "main.js.map": "/diamondsweeper/static/js/main.e6f4fe9d.chunk.js.map",
+    "main.css": "/diamondsweeper/static/css/main.327b6c16.chunk.css",
+    "main.js": "/diamondsweeper/static/js/main.62021aa2.chunk.js",
+    "main.js.map": "/diamondsweeper/static/js/main.62021aa2.chunk.js.map",
     "runtime-main.js": "/diamondsweeper/static/js/runtime-main.cd2d2a32.js",
     "runtime-main.js.map": "/diamondsweeper/static/js/runtime-main.cd2d2a32.js.map",
     "static/js/2.d7ad15c6.chunk.js": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js",
     "static/js/2.d7ad15c6.chunk.js.map": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js.map",
     "index.html": "/diamondsweeper/index.html",
-    "precache-manifest.e9ae5caeb29ae43c648bd060cea7473f.js": "/diamondsweeper/precache-manifest.e9ae5caeb29ae43c648bd060cea7473f.js",
+    "precache-manifest.52b666f57042b89f038252e7d54b14f0.js": "/diamondsweeper/precache-manifest.52b666f57042b89f038252e7d54b14f0.js",
     "service-worker.js": "/diamondsweeper/service-worker.js",
-    "static/css/main.a5407f44.chunk.css.map": "/diamondsweeper/static/css/main.a5407f44.chunk.css.map",
+    "static/css/main.327b6c16.chunk.css.map": "/diamondsweeper/static/css/main.327b6c16.chunk.css.map",
     "static/js/2.d7ad15c6.chunk.js.LICENSE.txt": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js.LICENSE.txt",
     "static/media/dice.gif": "/diamondsweeper/static/media/dice.b44733eb.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.cd2d2a32.js",
     "static/js/2.d7ad15c6.chunk.js",
-    "static/css/main.a5407f44.chunk.css",
-    "static/js/main.e6f4fe9d.chunk.js"
+    "static/css/main.327b6c16.chunk.css",
+    "static/js/main.62021aa2.chunk.js"
   ]
 }

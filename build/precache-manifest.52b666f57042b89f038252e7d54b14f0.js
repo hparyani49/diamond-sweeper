@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e5d4b27c51f742c208ddcd44d210d172",
+    "revision": "61d4536b953ab8534ae6c149442837a9",
     "url": "/diamondsweeper/index.html"
   },
   {
-    "revision": "14b82b3799c7cf787666",
-    "url": "/diamondsweeper/static/css/main.a5407f44.chunk.css"
+    "revision": "85b9d30baead21502e22",
+    "url": "/diamondsweeper/static/css/main.327b6c16.chunk.css"
   },
   {
     "revision": "711c9b0e20cee18a4a79",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/diamondsweeper/static/js/2.d7ad15c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14b82b3799c7cf787666",
-    "url": "/diamondsweeper/static/js/main.e6f4fe9d.chunk.js"
+    "revision": "85b9d30baead21502e22",
+    "url": "/diamondsweeper/static/js/main.62021aa2.chunk.js"
   },
   {
     "revision": "cc697c768d1400726119",

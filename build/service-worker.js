@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/diamondsweeper/precache-manifest.e9ae5caeb29ae43c648bd060cea7473f.js"
+  "/diamondsweeper/precache-manifest.52b666f57042b89f038252e7d54b14f0.js"
 );
 
 self.addEventListener('message', (event) => {
