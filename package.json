@@ -2,7 +2,7 @@
   "name": "diamond-sweeper",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hparyani49.github.io/diamond-sweeper",
+  "homepage": "https://hparyani49.github.io/diamondsweeper",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",

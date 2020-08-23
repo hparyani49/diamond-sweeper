@@ -72,7 +72,7 @@ const Game = (props) => {
         <>
             <div className='game-container'>
                 <h2 className='heading'>Diamond Sweeper</h2>
-                {isFinish ? <h3 className='green-heading'>You won! Your score is : {(GAMEROW*GAMECOL) - openCards.length}</h3> : null}
+                {isFinish ? <h3 className='green-heading'>You won! Your score is : {(GAMEROW*GAMECOL) - openCards.length}, <span className='blue-text' onClick={() => window.location.reload()}>Click here</span> to play again</h3> : null}
                 <div className='board'>
                     {gameState.map((row, rowIndex) => {
                         return <div className='row' key={rowIndex+''}>
